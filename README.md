@@ -15,3 +15,8 @@
   - https://www.kaggle.com/datasets/harshal19t/lastfm-dataset
 6. Paper recomendado profe: Quantification of the Impact of Popularity Bias in Multi-Stackeholder and Time-Aware Environments
   - [Link Articulo en Repositorio](Quantification-of-Impact-RecSys.pdf)
+7. Paper Popularity Bias:
+  - https://arxiv.org/abs/2308.01118
+8. Definición Popularity Bias:
+  - https://roizner.medium.com/personalization-and-popularity-bias-5e2f3e827583#:~:text=In%20simple%20terms%2C%20popularity%20bias,different%20aspects%20of%20this%20phenomenon.
+  - 
