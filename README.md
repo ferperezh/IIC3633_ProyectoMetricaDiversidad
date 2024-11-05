@@ -13,8 +13,9 @@
   - Paper del dataset: https://sol.sbc.org.br/index.php/eniac/article/view/12155/12020
 5. Dataset Musica - Con perfiles de usuario (**LastFM**):
   - https://www.kaggle.com/datasets/harshal19t/lastfm-dataset
-6. Paper recomendado profe: Quantification of the Impact of Popularity Bias in Multi-Stackeholder and Time-Aware Environments
-  - [Link Articulo en Repositorio](Quantification-of-Impact-RecSys.pdf)
+6. Paper recomendado profe: 
+  - Quantification of the Impact of Popularity Bias in Multi-Stackeholder and Time-Aware Environments: [Link Articulo en Repositorio](Quantification-of-Impact-RecSys.pdf)
+  - Diversity in Recomender Systems. A Survey: [Link Articulo en Repositorio](Diversity-in-recommender-systems-RecSys.pdf)
 7. Paper Popularity Bias:
   - https://arxiv.org/abs/2308.01118
 8. Definición Popularity Bias:
