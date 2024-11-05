@@ -7,10 +7,11 @@
   - **FALTA CREAR**
 3. Entrega 2 - Jupyter:
   - [Link Jupyter en Repositorio](procesamiento_musica.ipynb)
-3. Dataset Musica - Con metadata:
+  - [Link Jupyter en COLAB](https://colab.research.google.com/drive/141ebpYa0Y2VUWto3d36V3hcHrNHvirmk?usp=sharing)
+4. Dataset Musica - Con metadata:
   - https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019/data?select=tcc_ceds_music.csv
   - Paper del dataset: https://sol.sbc.org.br/index.php/eniac/article/view/12155/12020
-4. Dataset Musica - Con perfiles de usuario:
+5. Dataset Musica - Con perfiles de usuario:
   - https://www.kaggle.com/datasets/harshal19t/lastfm-dataset
-5. Paper recomendado profe: Quantification of the Impact of Popularity Bias in Multi-Stackeholder and Time-Aware Environments
+6. Paper recomendado profe: Quantification of the Impact of Popularity Bias in Multi-Stackeholder and Time-Aware Environments
   - [Link Articulo en Repositorio](Quantification-of-Impact-RecSys.pdf)
