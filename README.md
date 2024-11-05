@@ -9,4 +9,4 @@
 4. Dataset Musica - Con perfiles de usuario:
   - https://www.kaggle.com/datasets/harshal19t/lastfm-dataset
 5. Paper recomendado profe: Quantification of the Impact of Popularity Bias in Multi-Stackeholder and Time-Aware Environments
-  - [link articulo en repositorio](Quantification of Impact - RecSys.pdf)
+  - [link articulo en repositorio](Quantification-of-Impact-RecSys.pdf)
